@@ -60,7 +60,7 @@ Quercetin | 槲皮素 | 抗癌 | 常与姜黄素同服用
 __R__  
 Resveratrol | 白藜芦醇 | 抗衰 | 
 __S__  
-`Selegiline` | `司来吉兰` | 抗衰, 抗癌|I Miklya在2016年论文The significance of selegiline-deprenyl after 50 years in research and therapy 1965–2015 中指出：1、DEP通过封堵B-type MAO（抑制6-OHDA被摄入到神经细胞）保护striatum免受6-OHDA毒害 。DEP还能抵抗其它几种神经毒性物质。2、DEP在纹状体striatum显著促进了SOD（superoxide dismutase）活性。3、促进神经营养因子neurotrophins生成。4、刺激免疫功能，上调interleukin (IL-2)和自然杀伤细胞natural killer cell活性。5、抑制肿瘤生长。6、45岁以后，大脑多巴胺会减少13%。发育结束后，哺乳动物大脑中出现持续升高的苯乙胺（PEA）不足，一般说,多数酶功能下降，MAO-B是个例外，活性随年龄增长上升，同时catecholamine合成限速酶tyrosine hydroxylase随年龄增长下降。7、对小鼠、大鼠、仓鼠、狗、果蝇都有延寿效果。实验显示DEP提高大鼠性能力，延长寿命超过以往最大寿命。8、DEP推迟帕金森病人进行levodopa治疗的时间。 57% 病人实验结束也没有使用levodopa。9、 ( − )-1-phenyl-2-propylaminopentane（DEP 类似物）,同样促进catecholaminergic brain engine活力,同时没有MAOI特性，说明DEP的CAE功能与抑制MAO无关。10、发育期结束，性激素上升，catecholamines和serotonin迅速下降。<br>讨论：DEP对延长最大寿命效果很突出，研究时间虽然很长，但成果不多，也许和大脑的激素控制中心地位有关。
+`Selegiline` | `司来吉兰` | 抗衰, 抗癌|I Miklya在2016年论文The significance of selegiline-deprenyl after 50 years in research and therapy 1965–2015 中指出：1、DEP通过封堵B-type MAO（抑制6-OHDA被摄入到神经细胞）保护striatum免受6-OHDA毒害 。DEP还能抵抗其它几种神经毒性物质。2、DEP在纹状体striatum显著促进了SOD（superoxide dismutase）活性。3、促进神经营养因子neurotrophins生成。4、刺激免疫功能，上调interleukin (IL-2)和自然杀伤细胞natural killer cell活性。5、抑制肿瘤生长。6、45岁以后，大脑多巴胺会减少13%。发育结束后，哺乳动物大脑中出现持续升高的苯乙胺（PEA）不足，一般说,多数酶功能下降，MAO-B是个例外，活性随年龄增长上升，同时catecholamine合成限速酶tyrosine hydroxylase随年龄增长下降。7、对小鼠、大鼠、仓鼠、狗、果蝇都有延寿效果。实验显示DEP提高大鼠性能力，延长寿命超过以往最大寿命。8、DEP推迟帕金森病人进行levodopa治疗的时间。 57% 病人实验结束也没有使用levodopa。9、 ( − )-1-phenyl-2-propylaminopentane（DEP 类似物）,同样促进catecholaminergic brain engine活力,同时没有MAOI特性，说明DEP的CAE功能与抑制MAO无关。10、发育期结束，性激素上升，catecholamines和serotonin迅速下降。
 `Spermidine` | `亚精胺` | 抗衰 | 亚精胺具有延缓衰老、延长寿命、心血管保护、防癌与抗癌、神经调节与神经保护、促进头发生长、改善代谢性疾病等多种作用. 可以引发细胞的自体吞噬作用, 抑制mTOR和激活AMPK
 `Senolytics` | `返老药` | 抗衰 | 清除衰老细胞的药物, 选择性地杀死衰老细胞并增进人体健康的小分子物质；这类研究的目标是找出或开发能延缓、阻止、纾解甚至逆转老化相关疾病的药物。与此类研究相关的一个概念是“冻龄”（senostatic），其意为抑制老化
 __T__  
@@ -187,7 +187,6 @@ Name | Chinese |  Efficacy
 Name |  Efficacy  
 ------ | ------
 selegiline司来吉兰 | I Miklya在2016年论文The significance of selegiline-deprenyl after 50 years in research and therapy 1965–2015 中指出：1、DEP通过封堵B-type MAO（抑制6-OHDA被摄入到神经细胞）保护striatum免受6-OHDA毒害 。DEP还能抵抗其它几种神经毒性物质。2、DEP在纹状体striatum显著促进了SOD（superoxide dismutase）活性。3、促进神经营养因子neurotrophins生成。4、刺激免疫功能，上调interleukin (IL-2)和自然杀伤细胞natural killer cell活性。5、抑制肿瘤生长。6、45岁以后，大脑多巴胺会减少13%。发育结束后，哺乳动物大脑中出现持续升高的苯乙胺（PEA）不足，一般说,多数酶功能下降，MAO-B是个例外，活性随年龄增长上升，同时catecholamine合成限速酶tyrosine hydroxylase随年龄增长下降。7、对小鼠、大鼠、仓鼠、狗、果蝇都有延寿效果。实验显示DEP提高大鼠性能力，延长寿命超过以往最大寿命。8、DEP推迟帕金森病人进行levodopa治疗的时间。 57% 病人实验结束也没有使用levodopa。9、 ( − )-1-phenyl-2-propylaminopentane（DEP 类似物）,同样促进catecholaminergic brain engine活力,同时没有MAOI特性，说明DEP的CAE功能与抑制MAO无关。10、发育期结束，性激素上升，catecholamines和serotonin迅速下降。
-讨论：DEP对延长最大寿命效果很突出，研究时间虽然很长，但成果不多，也许和大脑的激素控制中心地位有关。
 MgT 苏糖酸镁 | 可促进认知功能如学习和长短期记忆能力
 MgG 甘氨酸镁 | 基本同上 , 但活性没MgT好
 银杏提取物 | 效成分是银杏内酯类和黄酮类, 能起到一定程度的提高微血管循环的作用, 代表产品 : Swisse银杏精华记忆力片
