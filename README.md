@@ -44,7 +44,6 @@ __K__
 __L__  
 Lipoic acid | `硫辛酸` | 抗衰 | 抗氧化剂, 作为辅酶参与机体内的物质代谢中的酰基转移，能消除导致加速老化与致病的自由基。
 Lysine | 赖氨酸 | 生长分泌 | 增高
-
 __M__  
 Metformin | 二甲双胍 | 抗衰, 抗糖 | 增强细胞自噬功能, 服用后可能会有转氨酶升高现象, 停药后
 __N__  
@@ -53,7 +52,7 @@ NAD+ (nicotinamide adenine dinucleotide)| 烟酰胺腺嘌呤二核苷酸 | 辅�
 NMN (β-Nicotinamide Mononucleotide) | β-烟酰胺单核苷酸 | 抗衰 | 维生素B3衍生物, 核糖和烟酰胺衍生的核苷酸由NR转化而来  
 NR (Nicotinamide Riboside) | 烟酰胺核糖 | 抗衰 | NMN前体,维生素B3衍生物, 缓解化疗诱发的周围神经病变
 __O__  
-Ornithine | 鸟氨酸 | 
+Ornithine | 鸟氨酸 | 护肝 | 
 __P__  
 PABA (Para-aminobenzoic acid)| 氨基苯甲酸 | 白发 |  合成各种生物支架的重要底物。从用于某些生物学疾病的药物如叶酸和苯佐卡因可以明显看出其药理学意义。虽然它不是维生素，但仍被称为维生素B的一种。PABA的缺乏会导致多种疾病，如皮肤白斑发白，白发，疲劳，抑郁和易怒
 Panthenol | 泛酸, 维生素B5 | 脱发, 生长| 
@@ -62,7 +61,7 @@ Quercetin | 槲皮素 | 抗癌 | 常与姜黄素同服用
 __R__  
 Resveratrol | 白藜芦醇 | 抗衰 | 
 __S__  
-`Selegiline` | `司来吉兰` | 抗衰, 抗癌|I Miklya在2016年论文The significance of selegiline-deprenyl after 50 years in research and therapy 1965–2015 中指出：1、DEP通过封堵B-type MAO（抑制6-OHDA被摄入到神经细胞）保护striatum免受6-OHDA毒害 。DEP还能抵抗其它几种神经毒性物质。2、DEP在纹状体striatum显著促进了SOD（superoxide dismutase）活性。3、促进神经营养因子neurotrophins生成。4、刺激免疫功能，上调interleukin (IL-2)和自然杀伤细胞natural killer cell活性。5、抑制肿瘤生长。6、45岁以后，大脑多巴胺会减少13%。发育结束后，哺乳动物大脑中出现持续升高的苯乙胺（PEA）不足，一般说,多数酶功能下降，MAO-B是个例外，活性随年龄增长上升，同时catecholamine合成限速酶tyrosine hydroxylase随年龄增长下降。7、对小鼠、大鼠、仓鼠、狗、果蝇都有延寿效果。实验显示DEP提高大鼠性能力，延长寿命超过以往最大寿命。8、DEP推迟帕金森病人进行levodopa治疗的时间。 57% 病人实验结束也没有使用levodopa。9、 ( − )-1-phenyl-2-propylaminopentane（DEP 类似物）,同样促进catecholaminergic brain engine活力,同时没有MAOI特性，说明DEP的CAE功能与抑制MAO无关。10、发育期结束，性激素上升，catecholamines和serotonin迅速下降。
+`Selegiline` | `司来吉兰` | 脑补抗衰, 脑补抗癌|I Miklya在2016年论文The significance of selegiline-deprenyl after 50 years in research and therapy 1965–2015 中指出：1、DEP通过封堵B-type MAO（抑制6-OHDA被摄入到神经细胞）保护striatum免受6-OHDA毒害 。DEP还能抵抗其它几种神经毒性物质。2、DEP在纹状体striatum显著促进了SOD（superoxide dismutase）活性。3、促进神经营养因子neurotrophins生成。4、刺激免疫功能，上调interleukin (IL-2)和自然杀伤细胞natural killer cell活性。5、抑制肿瘤生长。6、45岁以后，大脑多巴胺会减少13%。发育结束后，哺乳动物大脑中出现持续升高的苯乙胺（PEA）不足，一般说,多数酶功能下降，MAO-B是个例外，活性随年龄增长上升，同时catecholamine合成限速酶tyrosine hydroxylase随年龄增长下降。7、对小鼠、大鼠、仓鼠、狗、果蝇都有延寿效果。实验显示DEP提高大鼠性能力，延长寿命超过以往最大寿命。8、DEP推迟帕金森病人进行levodopa治疗的时间。 57% 病人实验结束也没有使用levodopa。9、 ( − )-1-phenyl-2-propylaminopentane（DEP 类似物）,同样促进catecholaminergic brain engine活力,同时没有MAOI特性，说明DEP的CAE功能与抑制MAO无关。10、发育期结束，性激素上升，catecholamines和serotonin迅速下降。
 `Spermidine` | `亚精胺` | 抗衰 | 亚精胺具有延缓衰老、延长寿命、心血管保护、防癌与抗癌、神经调节与神经保护、促进头发生长、改善代谢性疾病等多种作用. 可以引发细胞的自体吞噬作用, 抑制mTOR和激活AMPK
 `Senolytics` | `返老药` | 抗衰 | 清除衰老细胞的药物, 选择性地杀死衰老细胞并增进人体健康的小分子物质；这类研究的目标是找出或开发能延缓、阻止、纾解甚至逆转老化相关疾病的药物。与此类研究相关的一个概念是“冻龄”（senostatic），其意为抑制老化
 __T__  
@@ -74,11 +73,13 @@ Vitamin A | 维他命A |
 Vitamin B1 | 维他命B1 | 
 Vitamin B2 | 维他命B2 | 
 Vitamin B3 | 维他命B3, 烟酸胺 | 
+Vitamin B4 | 维他命B3, 烟酸胺 | 
 Vitamin B5 | 维他命B6, 泛酸 | 
 Vitamin B6 | 维他命B6 | 
 Vitamin B7 | 维他命B7, 生物素 | 
+Vitamin B8 | 维他命B7, 生物素 | 
 Vitamin B9/Folic Acid | 叶酸,维他命B9 | 白头发, 脑补发育 | 
-Vitamin B12 | 维他命B12 | 
+Vitamin B12 | 维他命B12 | 维持神经功能
 Vitamin C | 维他命C | 
 Vitamin D | 维他命D | 
 Vitamin E | 维他命E | 
