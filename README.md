@@ -7,10 +7,14 @@ Name | Chinese | Description
 __Telomere__ | 端粒 | 是存在于细胞染色体末端的一小段DNA，它与端粒结合蛋白一起，可以保持染色体的完整性和控制细胞分裂周期。端粒的长度反应了细胞复制的能力，细胞每分裂一次，端粒就会缩短一点。一旦端粒消耗殆尽，细胞就会进入衰老状态。`按照理论,只要维持或延长细胞端粒, 人类理论上是可是达到长生不老`
 __mTor__<br>(mammalian target of rapamycin) | 哺乳动物雷帕霉素靶蛋白| 是细胞生长和增殖的重要调节因子。大量研究显示mTOR信号途径调控异常与细胞增殖密切相关. mTOR属于一个重要的真核细胞信号，其稳定性影响T细胞中细胞因子的表达，参与免疫抑制，影响转录和蛋白质合成，调节细胞的生长、凋亡、自噬等。mTOR则被认定为肿瘤治疗的新靶点，对运动、代谢、神经等疾病具有重要的调节作用。
 __AMPK__<br>(Adenosine 5‘-monophosphate (AMP)-activated protein kinase)| 单磷酸腺苷活化蛋白质激酶 | 生物能量代谢调节的关键分子, 它表达于各种代谢相关的器官中，能被机体各种刺激激活，包括细胞压力、运动和很多激素及能影响细胞代谢的物质。遗传学和药理学研究表明，AMPK是机体保持葡萄糖平衡所必需的。
+__BDNF__<br>(Brain-Derived Neurotrophic Factor) | 脑源性神经营养因子 | 是人脑中的一种蛋白质，由脑源性神经营养因子基因生成。脑源性神经营养因子是神经营养因子中的一种，这种因子存在于人的神经系统中。 BDNF是大脑中含量最丰富的蛋白质，在脑部可以促进神经元 (神经细胞) 的生长，也促进大脑神经细胞突触的成形。[1][2]简单来说，就是大脑非常需要的营养蛋白质。 研究显示，在大脑中掌管记忆的海马回中含有特别丰富的 BDNF 
 __Autophagy__  | 自噬 | 自噬作用主要是清除降解细胞内受损伤的细胞结构、衰老的细胞器、以及不再需要的生物大分子等。自噬作用在消化的同时，也为细胞内细胞器的构建提供原料，即细胞结构的再循环。因此,溶酶体相当于细胞内清道夫。自噬作用机制失灵将导致细胞异常甚至死亡。
 __ROS__<br>(Reactive oxygen species) | 活性氧 | 是含氧的化学反应性化学物质。 实例包括过氧化物，超氧化物，羟基自由基，单线态氧，和α-氧。 在生物学背景下，ROS形成为氧的正常代谢的天然副产物，并且在细胞信号传导和体内平衡中具有重要作用。 然而，在环境压力（例如，紫外线或热暴露）期间，ROS水平会急剧增加。ROS 是导肿瘤细胞增殖，提高肿瘤细胞耐受性，促进肿瘤细胞转移的主要物质；另一方面诱导肿瘤细胞的凋亡甚至坏死。由此可见活性氧与肿瘤的发生发展有着密切的联系，活性氧可作为肿瘤治疗的重要靶点。要维持一个`平衡`
 __OS__<br>(Oxidative Stress) | 氧化应激 | 是指体内氧化与抗氧化作用失衡的一种状态，倾向于氧化，导致中性粒细胞炎性浸润，蛋白酶分泌增加，产生大量氧化中间产物。 氧化应激是由自由基在体内产生的一种负面作用，并被认为是导致衰老,炎症, 癌症以及其它疾病的一个重要因素。
 __TERT__<br>(Telomerase reverse transcriptase) | 端粒酶逆转录酶 | 当端粒缩短到一定长度时，细胞无法维持正常的端粒结构，从而导致细胞衰老死亡或癌变大量研究表明，端粒长度主要靠端粒酶来维持端粒酶是真核细胞中一种具有逆转录活性的核糖核蛋白聚合酶，主要由端粒酶模板RNA(telomeraseRNAcomponent，TERC)端粒酶逆转录酶(telomeres reverse transcriptase，TERT)及端粒酶相关蛋白质(telomerase-associatedprotein，TEP)组成端粒酶以TERC作为模板，端粒酶逆转录酶作为催化亚基逆转录合成端粒DNA，维持端粒的长度和染色体稳定性，保证细胞持续分裂的潜能端粒酶活性在体细胞中几乎检测不到，但在生殖细胞具有自我更新能力的干细胞及肿瘤细胞中均能被检测到，其中TERC和TERT两个组分对于端粒酶的活性是必须的。
+__Methylation__ | __甲基化__ | DNA甲基化是蛋白质和核酸的一种重要的修饰，调节基因的表达和关闭，与癌症、衰老、老年痴呆等许多疾病密切相关，是表观遗传学的重要研究内容之一。 最常见的甲基化修饰有DNA甲基化和组蛋白甲基化。是指从活性甲基化合物上将甲基催化转移到其他化合物的过程，可形成各种甲基化合物，或是对某些蛋白质或核酸等进行化学修饰形成甲基化产物。在生物系统内，甲基化是经酶催化的，这种甲基化涉及重金属修饰、基因表达的调控、蛋白质功能的调节以及核糖核酸加工
+__Epigenetics__ | __表观遗传__ | 其研究的是在不改变DNA序列的前提下，通过某些机制引起可遗传的基因表达或细胞表现型的变化, 表征遗传现象包括DNA、RNA干扰、组蛋白修饰等。
+
 
 ## Drugs 药物 (内服) 
 
@@ -19,6 +23,7 @@ Name<br>名称 | Chinese<br>中文名| Classification<br>分类 | Efficacy<br>�
 __A__  
 `Aspirin` | `阿司匹林`, 乙酰水杨酸 | 抗衰,抗癌,消炎 |  止痛、解热, 能够抑制血小板的释放和聚集，防止血栓形成，预防心梗
 Acarbose | 阿卡波糖 | 抗衰, 抗糖 | 
+`AKG`<br>Alpha-ketoglutarate | α-酮戊二酸 | 
 Arginine | 精氨酸 | 性 |
 Astaxanthin | 虾青素 | 抗衰 | 强还原剂, 
 __B__  
@@ -35,7 +40,7 @@ EGCG<br>(Epigallocatechin Gallate) | 表没食子儿茶素没食子酸酯 | 抗�
 __G__  
 Glutamine | 谷氨酰胺 | 加速身体恢复 | 肌肉和血液中数量最多的氨基酸。人体不能自己生产必需氨基酸，只能通过饮食摄取，而谷氨酰胺是一种有条件必需氨基酸 
 Glycine | 甘氨酸 | 生长分泌 | 增高
-`GSH` (glutathione，r-glutamyl cysteingl +glycine) | `谷胱甘肽` | 抗衰 | 由谷氨酸、半胱氨酸及甘氨酸组成，存在于几乎身体的每一个细胞 。 谷胱甘肽能帮助保持正常的免疫系统功能，并具有抗氧化作用、整合解毒作用 。抗氧化，整合解毒，美白，淡斑
+`GSH` (glutathione，r-glutamyl cysteingl +glycine) | `谷胱甘肽` | 抗衰 | 由谷氨酸、半胱氨酸及甘氨酸组成，存在于几乎身体的每一个细胞 。 谷胱甘肽能帮助保持正常的免疫系统功能，并具有抗氧化作用、整合解毒作用 。抗氧化，整合解毒，美白，淡斑 
 __I__  
 Inositol<br>(Vitamin B₈) | 肌醇, 維生素B8 | 
 __L__  
@@ -45,14 +50,16 @@ __M__
 `Metformin` | `二甲双胍` | 抗衰, 抗糖 | 增强细胞自噬功能, 服用后可能会有转氨酶升高现象, 停药后恢复, 服用需要和VB12一起服用, 因为二甲双胍的后体`胍丁胺`
 __N__  
 `NAC`<br>(N-acetyl-L-cysteine) | `N-乙酰半胱氨酸` | 抗衰, 抗癌 | 肺部排毒, 与`甘氨酸`同服用是谷胱甘肽
+`NADH`<br>Nicotinamide adenine dinucleotide | 还原型烟酰胺腺嘌呤二核苷酸 | 
 NAD+<br>(nicotinamide adenine dinucleotide)| 烟酰胺腺嘌呤二核苷酸 | 辅酶的一种, 维生素B3衍生物
-`NMN`<br>(β-Nicotinamide Mononucleotide) | β-烟酰胺单核苷酸 | 抗衰 | 维生素B3衍生物, 核糖和烟酰胺衍生的核苷酸由NR转化而来  
+NMN<br>(β-Nicotinamide Mononucleotide) | β-烟酰胺单核苷酸 | 抗衰 | 维生素B3衍生物, 核糖和烟酰胺衍生的核苷酸由NR转化而来  
 NR (Nicotinamide Riboside) | 烟酰胺核糖 | 抗衰 | NMN前体,维生素B3衍生物, 缓解化疗诱发的周围神经病变
 __O__  
 Ornithine | 鸟氨酸 | 护肝 | 
 __P__  
 PABA<br>(Para-aminobenzoic acid)| 氨基苯甲酸 | 白发 |  合成各种生物支架的重要底物。从用于某些生物学疾病的药物如叶酸和苯佐卡因可以明显看出其药理学意义。虽然它不是维生素，但仍被称为维生素B的一种。PABA的缺乏会导致多种疾病，如皮肤白斑发白，白发，疲劳，抑郁和易怒
 Panthenol | 泛酸, 维生素B5 | 脱发, 生长| 
+`PQQ`<br>（Pyrroloquinoline quinone）| 吡咯并喹啉醌 | 抗衰 | 是促进新线粒体产生的营养物质, 实际上，PQQ通过三种不同的方式促进年轻的细胞功能, 促进线粒体的生物发生, PQQ激活促进新鲜线粒体形成的基因, 它也可以与直接参与线粒体健康的基因相互作用
 __Q__  
 `Quercetin` | `槲皮素` | 抗癌 | 常与姜黄素同服用
 __R__  
@@ -136,13 +143,13 @@ Name |   Efficacy
 ## 性
 Name | Chinese |  Efficacy  
 ------ | ------ | ------
-瓜氨酸
-精氨酸
-淫羊藿
-(刺)蒺藜皂甙
-牛磺酸
-锌
-硒
+精氨酸 | 精氨酸, 代谢产物有瓜氨酸, 鸟氨酸, 一氧化氮
+瓜氨酸 | 
+淫羊藿 | 
+(刺)蒺藜皂甙 | 
+牛磺酸 | 
+锌 | 
+硒 | 
 
 ## 瘦身
 Name | Chinese |  Efficacy  
@@ -193,7 +200,7 @@ Name | Chinese |  Efficacy
 ## 大脑
 Name |  Efficacy  
 ------ | ------
-selegiline 司来吉兰 | I Miklya在2016年论文The significance of selegiline-deprenyl after 50 years in research and therapy 1965–2015 中指出：1、DEP通过封堵B-type MAO（抑制6-OHDA被摄入到神经细胞）保护striatum免受6-OHDA毒害 。DEP还能抵抗其它几种神经毒性物质。2、DEP在纹状体striatum显著促进了SOD（superoxide dismutase）活性。3、促进神经营养因子neurotrophins生成。4、刺激免疫功能，上调interleukin (IL-2)和自然杀伤细胞natural killer cell活性。5、抑制肿瘤生长。6、45岁以后，大脑多巴胺会减少13%。发育结束后，哺乳动物大脑中出现持续升高的苯乙胺（PEA）不足，一般说,多数酶功能下降，MAO-B是个例外，活性随年龄增长上升，同时catecholamine合成限速酶tyrosine hydroxylase随年龄增长下降。7、对小鼠、大鼠、仓鼠、狗、果蝇都有延寿效果。实验显示DEP提高大鼠性能力，延长寿命超过以往最大寿命。8、DEP推迟帕金森病人进行levodopa治疗的时间。 57% 病人实验结束也没有使用levodopa。9、 ( − )-1-phenyl-2-propylaminopentane（DEP 类似物）,同样促进catecholaminergic brain engine活力,同时没有MAOI特性，说明DEP的CAE功能与抑制MAO无关。10、发育期结束，性激素上升，catecholamines和serotonin迅速下降。
+Selegiline 司来吉兰 | I Miklya在2016年论文The significance of selegiline-deprenyl after 50 years in research and therapy 1965–2015 中指出：1、DEP通过封堵B-type MAO（抑制6-OHDA被摄入到神经细胞）保护striatum免受6-OHDA毒害 。DEP还能抵抗其它几种神经毒性物质。2、DEP在纹状体striatum显著促进了SOD（superoxide dismutase）活性。3、促进神经营养因子neurotrophins生成。4、刺激免疫功能，上调interleukin (IL-2)和自然杀伤细胞natural killer cell活性。5、抑制肿瘤生长。6、45岁以后，大脑多巴胺会减少13%。发育结束后，哺乳动物大脑中出现持续升高的苯乙胺（PEA）不足，一般说,多数酶功能下降，MAO-B是个例外，活性随年龄增长上升，同时catecholamine合成限速酶tyrosine hydroxylase随年龄增长下降。7、对小鼠、大鼠、仓鼠、狗、果蝇都有延寿效果。实验显示DEP提高大鼠性能力，延长寿命超过以往最大寿命。8、DEP推迟帕金森病人进行levodopa治疗的时间。 57% 病人实验结束也没有使用levodopa。9、 ( − )-1-phenyl-2-propylaminopentane（DEP 类似物）,同样促进catecholaminergic brain engine活力,同时没有MAOI特性，说明DEP的CAE功能与抑制MAO无关。10、发育期结束，性激素上升，catecholamines和serotonin迅速下降。
 DHM (Dihydromyricetin) | 二氢杨梅素 | 抗脑补衰老, 消炎, 抗癌, 能有效改善脑补神经衰老
 MgT 苏糖酸镁 | 可促进认知功能如学习和长短期记忆能力
 MgG 甘氨酸镁 | 基本同上 , 但活性没MgT好
@@ -205,7 +212,13 @@ EPA |
 
 `* 注意: ` 利他林, 安非他命, 莫达非尼, 专注达, 哌甲酯, 这类聪明药可以短时间提高专注药, 属于兴奋剂的一中, 不建议使用
 
-# 禁止清单 Forbidden list
+## 胃、肝、肾
+服增补剂过程中，部分药物会加重胃、肝、肾的负荷
+Name |  Efficacy  
+------ | ------
+奥美拉唑 | 胃部
+
+# ------------------- 禁止清单 Forbidden list -------------------
 
 ## 食物
 Name | Effect |  Foods  
